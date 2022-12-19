@@ -1,0 +1,27 @@
+h1{
+    text-align-last: center;
+    font-style: oblique;
+    color: lawngreen;
+    background-color: black;
+    
+}
+
+.E-mail{
+    text-align-last: center;
+}
+
+.Mobilenumber{
+    text-align-last: center;
+}
+
+.A{
+    position: relative;
+    white-space: pre;
+    text-align-last: auto;
+}   
+
+h2{
+    color: rgb(red, green, blue);
+    background-color: royalblue;
+    display: block;
+}
